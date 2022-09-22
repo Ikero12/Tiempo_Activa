@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
         Log.d("Estado","Aplicación iniciada")
         startTime = System.currentTimeMillis()
         println(startTime)
-        #asd
+
     }
 
     override fun onResume() {
